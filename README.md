@@ -1,10 +1,8 @@
 # Windows-10-Cleanup
-Guide for Decluttering Windows 10 Builds
-
-A public repository on github.com/orgs/CHP-INSPECT
+A guide for Decluttering Windows 10 Builds.
 
 ### Content Classification
-This repository is public-facing. So all content posted to this guide should fall within Public or Non-Business designations.
+This repository is public-facing. All content posted to this guide should fall within Public or Non-Business designations.
 
 ### Intended Audience
 This guide is intended for PC users who have been upgraded to Windows 10 in the 2018/19 conversion. Its purpose is to bring together information and recommendations that end users can implement to enhance their experience with their new machine.
@@ -45,7 +43,7 @@ Nothing here is required by the operating system, however some may be required f
 Certain applications on this list, such as those associated with XBox or XBox Live may not be able to be removed this way. Additional steps required to remove these packages are detailed below.
 
 ## Removing XBox and XBox Live Compatibility
-Depending on your department role, full integration between your PC and company-issued XBox entertainment consoles may not be required. Removing the utilities and adware support for XBox features requires using Windows Powershell.
+Depending on your department role, full integration between your PC and company-issued XBox entertainment consoles may not be required. Removing the utilities and adware support for XBox features may be done using the Windows Powershell.
 
 To open Windows Powershell, press the Windows key and type "power". Right-click on the Windows PowerShell icon and select "Run as Administrator". You will be prompted for your username and password.
 
@@ -60,7 +58,7 @@ Some additional packages may be uninstalled here, but this is only recommended f
 ## Recommended Browsers
 Windows 10 is installed with Microsoft Edge and Internet Explorer 10 by default.
 
-Due to the history of security flaws, compatibility issues, and poor user experiences, it is recommended that Internet Explorer be completely removed from the system, and replaced by a modern browser of your choice. The author recommends Google Chrome, due to its outstanding security features.
+Due to the history of security flaws, compatibility issues, and poor user experience, it is recommended that Internet Explorer be completely removed from the system and replaced by a modern browser of your choice. This author recommends Google Chrome, due to its outstanding security features.
 
 Leaving Internet Explorer installed is not recommended as some shortcuts and programs may launch Internet Explorer processes if it is installed, regardless of preferred browser settings. Windows updates may also periodically set the preferred browser back to IE if it remains installed.
 
